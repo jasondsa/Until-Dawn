@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Fantasy Forest Environment Free Sample/Scenes/Until Dawn.unity
+    guid: 7769f33fb4fa2e5458344a36556ad760
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 33d79c0ec5a0aac40924779f56845866
+  - enabled: 1
+    path: Assets/Scenes/HighScore.unity
+    guid: ebca5dabaccb96d4bae8789c1a581bdb
+  - enabled: 1
+    path: Assets/Scenes/GameWon.unity
+    guid: 6788507ee3a196342b766333d27ff9fb
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: 14ba980ad5dea6341b768641c3615c2e
+  m_configObjects: {}
